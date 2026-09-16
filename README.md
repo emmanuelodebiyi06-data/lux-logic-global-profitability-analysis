@@ -153,10 +153,7 @@ The dashboard uses KPI cards, waterfall analysis, trend analysis, comparative ba
 - Business Intelligence
 
 ---
-
-## Dashboard Preview
-
-![Lux-Logic Global Sales & Profitability Dashboard](Lux-Global Dashboard.png)
+[Lux-Logic Global Sales & Profitability Dashboard](Lux-GlobalDashboard.png)
 
 ---
 
